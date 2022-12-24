@@ -1,5 +1,6 @@
 def add(a,b):
     return a+b
 
-a,b = 5,6
+a = int(input())
+b = int(input())
 print(add(a,b))
